@@ -31,7 +31,7 @@ Both projects emphasize networking, real-time updates, GUI interaction, and user
 
 ![Multiplayer Tic‑Tac‑Toe Game](https://drive.google.com/uc?export=view&id=1DZ97gLk6NBJNiViifWVl8E6TmJK1uuoN)
 
-### Winner Screen:
+## Winner Screen:
 ![Winner Screen](https://drive.google.com/uc?export=view&id=1lk‑YGs3sP_eIDopmMUvtiGWORdBOTPav)
 
 ---
